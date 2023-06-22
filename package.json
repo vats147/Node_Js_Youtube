@@ -1,0 +1,22 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "node basic with youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vats147/Node_Js_Youtube.git"
+  },
+  "author": "Vatsal Mangukiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vats147/Node_Js_Youtube/issues"
+  },
+  "homepage": "https://github.com/vats147/Node_Js_Youtube#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
