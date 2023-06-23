@@ -12,4 +12,6 @@ app.get('/profile',(req,res)=>{
        res.render('profile',{user});
 });
 
+
+
 app.listen(3000);
